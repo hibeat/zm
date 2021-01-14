@@ -1,0 +1,133 @@
+{
+	"GuideData": {
+		"AdsController": {
+			"NetworkAds": "admob",
+			"AdMobId": "pub-3940256099942544",
+
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+			"BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+			"InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+			"NativeFacebook": "173186393601951_356298065290782",
+			"ImageBanner": false,
+			"ImageBannerImg": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Mobile/Engagement/GIFS2018/SpinAndWin/Winners/winner_LP_2.jpg",
+			"ImageBannerURL": "https://www.google.com"
+
+		},
+
+		"items": [{
+				"title": "Dark Meadow: The Pact",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+
+			},
+			{
+				"title": "The Old 2",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "Call of Cthulhu: Wasted Land ",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "Dead Space Android",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "Twisted Lands: Shadow Town",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "Twisted Lands: Shadow Town",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "test",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "test",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			},
+			{
+				"title": "test",
+				"image": "https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Dark Meadow : The Pact",
+				"isNative": false
+			}
+		]
+
+	}
+}
